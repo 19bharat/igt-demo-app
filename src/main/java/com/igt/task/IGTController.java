@@ -1,4 +1,4 @@
-package com.igt;
+package com.igt.task;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

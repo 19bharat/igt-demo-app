@@ -1,4 +1,4 @@
-package com.igt;
+package com.igt.task;
 
 import java.util.List;
 
